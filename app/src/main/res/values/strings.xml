@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IndividualProj1Android</string>
+    <string name="tv_splash">Easy Login</string>
+    <string name="tv_username">Username:</string>
+    <string name="tv_password">Password:</string>
+    <string name="tv_new_user">New User?</string>
+    <string name="tv_sign_up">Sign Up</string>
+    <string name="tv_login">Log In</string>
+    <string name="tv_first_name">First Name:</string>
+    <string name="tv_last_name">Last Name:</string>
+    <string name="tv_email">Email:</string>
+    <string name="tv_dob">Date of Birth:</string>
+    <string name="btn_submit">Submit</string>
+    <string name="dob_hint">MM/DD/YY</string>
+    <string name="email_hint">JohnDoe@email.com</string>
+    <string name="first_last_hint">3-30 Characters</string>
+    <string name="pass_hint">At least 5 letters/symbols</string>
+    <string name="empty_field_error">One of the fields are empty!</string>
+    <string name="length_error">First and last name fields must range from 3-30 characters</string>
+    <string name="email_error">Email must be in the proper format! x@y.z</string>
+    <string name="pass_error">Password must be at least 5 characters or symbols</string>
+    <string name="dob_error">Date of Birth must be in the following format: DD/MM/YY</string>
+    <string name="success">Account successfully created!</string>
+    <string name="tv_successful_login">Successfully Logged In!</string>
+    <string name="login_error">Incorrect Credentials!</string>
+</resources>
